@@ -230,3 +230,5 @@ Establishes bidirectional communication with the OPC-UA server:
 - **XArm ROS2 Documentation**: [XArm Developer Guide](./dev_ws/src/xarm_ros2/ReadMe.md)
 - **MoveIt Documentation**: [MoveIt Official Docs](https://moveit.ros.org/)
 - **OPC-UA Specification**: [IEC 62541 Standard](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
+- **Project summary video**: [Linked Project Summary](https://www.linkedin.com/posts/jeremiah-kiarie-100013222_ros-robotics-mechatronics-activity-7451179996683001856-TiF1?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfjBdABmvB67RqSZiLSvwVw5x8HcskUho0)
+- **Project explainer video**: [Youtube explainer](https://youtu.be/No8wpadKB7M?si=_4H0owKojJdO23bo)
